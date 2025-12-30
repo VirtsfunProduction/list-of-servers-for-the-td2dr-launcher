@@ -1,0 +1,7 @@
+﻿{
+  "last_update": "2025-12-10T18:40:00Z",
+  "servers": [
+    { "name": "RU-East #1", "ip": "83.220.171.88", "players": 12, "max": 32 },
+    { "name": "EU-West #3", "ip": "194.87.102.248",    "players": 5,  "max": 32 }
+  ]
+}
